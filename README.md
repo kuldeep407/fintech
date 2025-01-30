@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 
 
-
+for installing packages and dependencies: npm install 
 backend start command:  npm start
 frontend start command:  npm run dev
 
